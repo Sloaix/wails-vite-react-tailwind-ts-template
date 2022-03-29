@@ -1,0 +1,13 @@
+{
+  "name": "{{.ProjectName}}",
+  "outputfilename": "{{.BinaryName}}",
+  "frontend:build": "yarn run build",
+  "frontend:install": "yarn",
+  "frontend:dev": "",
+  "frontend:dev:watcher": "yarn run dev",
+  "wailsjsdir": "./frontend/src",
+  "author": {
+    "name": "{{.AuthorName}}",
+    "email": "{{.AuthorEmail}}"
+  }
+}

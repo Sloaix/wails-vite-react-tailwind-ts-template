@@ -1,0 +1,7 @@
+{
+  "name": "Wails + Vite + React + Tailwind + Typescript template",
+  "shortname": "wails-vite-react-tailwind-ts-template",
+  "author": "Sloaix",
+  "description": "Wails + React + Typescript + Vite + Tailwind CSS, and support hot-reload",
+  "helpurl": "https://github.com/Sloaix/wails-vite-react-tailwind-ts-template"
+}
